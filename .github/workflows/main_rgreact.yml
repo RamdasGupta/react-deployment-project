@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'rgreact'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2ABFA5CF22EE401CBF6F6980F754FF2B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A4A78A8A6A242C8AD78E940200D75CD }}
           package: .
